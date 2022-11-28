@@ -30,11 +30,18 @@ lign="center">
 
 ## Feito com
 
+<h3 align="center"> 
+
 * [Python 3.11.0](https://www.python.org/downloads/release/python-3110/) - Python
 
-![image](https://user-images.githubusercontent.com/93962428/204172673-dcb0d7fd-97aa-48b6-80ea-0b05b6e2f494.png)
+[![python](https://user-images.githubusercontent.com/93962428/204172673-dcb0d7fd-97aa-48b6-80ea-0b05b6e2f494.png)](https://www.python.org/downloads/release/python-3110/)
 
 * [Visual Studio Code](https://code.visualstudio.com) - IDE Microsoft visual studio code
+ 
+<a href="https://code.visualstudio.com"><img src="https://user-images.githubusercontent.com/93962428/204172811-9cf7e24a-94fb-43ab-8d56-19e81598de09.png" width="200" height="200" /></a> 
+   
+   </h3>
+
 
 ## Autores
 
