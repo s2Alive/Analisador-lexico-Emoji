@@ -1,36 +1,30 @@
-# Simple Lexical Analyzer
+# Analisador léxico simples: Linguagem E-moji
 
-This is a simple lexical analyzer for the C language. The repository contains an example program in C for testing.
+Esse é um analisador léxico simples realizado para a linguagem que nós criamos baseada em emojis.
 
-The [tokens_lexemes.pdf](https://github.com/christianrfg/lexical-analyzer/blob/master/tokens_lexemes.pdf) file shows the lexemes recognized by the lexical analyzer.
+O arquivo [Documentação Linguagem Emoji.pdf](https://github.com/christianrfg/lexical-analyzer/blob/master/tokens_lexemes.pdf) apresenta a documentação da nossa linguagem.
 
-### Prerequisites
+### Pré-requisitos
 
-Python 3.5.0 or last version...
+Python 3.11.0 ou a ultima versão e as seguintes bibliotecas:
+1- RE (Regular Expressions)
+2- Emoji
 ```
-sudo add-apt-repository ppa:fkrull/deadsnakes
-sudo apt-get update
-sudo apt-get install python3.5
-```
-
-## Running the tests
-
-Principal.py is the principal file of the project, just run this file to test the analyzer with default parameters.
-
-```
-python Principal.py
+pip install re
+pip install emoji
 ```
 
-The size of buffer, output and *.c* program can be changed as you wish.
+## Video da linguagem funcionando:
 
-## Built With
+VIDEOZAO
 
-* [Python 3.5.0](https://www.python.org/downloads/release/python-350/) - Python
-* [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE
+## Feito com
 
-## Authors
+* [Python 3.11.0](https://www.python.org/downloads/release/python-3110/) - Python
+* [Visual Studio Code](https://code.visualstudio.com) - IDE Microsoft visual studio code
 
-* **Christian R. F. Gomes** - [christianrfg](https://github.com/christianrfg)
-* **Pedro Souza** - email: pedronhds@gmail.com
+## Autores
 
-See also the list of [contributors](https://github.com/christianrfg/lexical-analyzer/graphs/contributors) who participated in this project.
+* **Bruno Durão** - [zeimi](https://github.com/zeimi) email: contato.brunodurao@gmail.com
+* **Gustavo Santos** - [n1hilus](https://github.com/n1hilus) email: k13gustavo@gmail.com
+* **Rodrigo Correia** - [s2Alive](https://github.com/s2Alive) email: rodrigocorreiaba753@gmail.com
