@@ -2,7 +2,11 @@
 
 Esse é um analisador léxico simples realizado para a linguagem que nós criamos baseada em emojis.
 
-O arquivo [Documentação Linguagem Emoji.pdf](https://github.com/christianrfg/lexical-analyzer/blob/master/tokens_lexemes.pdf) apresenta a documentação da nossa linguagem.
+Dos arquivos:
+
+[Documentação_Linguagem_Emoji.pdf](https://github.com/s2Alive/Analisador-lexico-Emoji/blob/master/Automato_emoji.jff) apresenta a documentação da nossa linguagem.
+
+[Automato_emoji.jff](https://github.com/s2Alive/Analisador-lexico-Emoji/blob/master/Automato_emoji.jff) é o automato da linguagem.
 
 ### Pré-requisitos
 
