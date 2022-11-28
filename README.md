@@ -31,6 +31,9 @@ lign="center">
 ## Feito com
 
 * [Python 3.11.0](https://www.python.org/downloads/release/python-3110/) - Python
+
+![image](https://user-images.githubusercontent.com/93962428/204172673-dcb0d7fd-97aa-48b6-80ea-0b05b6e2f494.png)
+
 * [Visual Studio Code](https://code.visualstudio.com) - IDE Microsoft visual studio code
 
 ## Autores
