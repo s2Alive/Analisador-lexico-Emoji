@@ -23,7 +23,7 @@ pip install emoji
 <h3 a!
 lign="center">
    
-[![linkimgyoutube](https://user-images.githubusercontent.com/93962428/204171627-3b6d7ed6-2258-4be5-bb9b-a1ca7759602c.png)](https://www.youtube.com/watch?v=d40lFR22Q6Q)
+[![linkimgyoutube](https://user-images.githubusercontent.com/93962428/204171627-3b6d7ed6-2258-4be5-bb9b-a1ca7759602c.png)](https://www.youtube.com/watch?v=s4195Yru7ec)
   
   </h3>
   
